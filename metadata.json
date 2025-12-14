@@ -1,0 +1,8 @@
+{
+  "name": "Communication Improvement Tracker",
+  "description": "A daily AI-driven coaching tool to record, analyze, and improve your speaking skills through structured feedback on verbal habits, delivery, and mannerisms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
